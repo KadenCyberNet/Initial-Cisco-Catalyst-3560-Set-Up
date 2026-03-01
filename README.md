@@ -1,6 +1,6 @@
 # 🔌 Cisco Switch Initial Setup – Physical Home Lab
 
-**Author:** Kaden Baffour | [@KadenCyberNet](https://github.com/KadenCyberNet)  
+**Author:** [@KadenCyberNet](https://github.com/KadenCyberNet)  
 **Hardware:** Cisco Catalyst Switch – IOS Version 12.2(55)SE7  
 **Tools:** PuTTY, Windows Device Manager, Cisco IOS CLI  
 **Difficulty:** Beginner  
@@ -32,7 +32,7 @@ Everything shown here was performed on real physical hardware, not a simulator.
 |------|---------|
 | Cisco Catalyst Switch | IOS Ver 12.2(55)SE7 |
 | Console Cable | RJ45 to USB (DIKWAN adapter) |
-| Laptop | Lenovo – Windows 11 |
+| Laptop | Windows 11 Laptop |
 | Terminal Emulator | PuTTY |
 
 ---
@@ -144,12 +144,5 @@ An unconfigured switch is a security risk. By default there are no passwords set
 
 ---
 
-## 🔗 Related Projects
-
-- [VLAN Segmentation Lab](https://github.com/KadenCyberNet)
-- [Port Security & MAC Address Analysis](https://github.com/KadenCyberNet)
-- [SSH Hardening & Secure Remote Management](https://github.com/KadenCyberNet)
-
----
 
 *Part of the [KadenCyberNet](https://github.com/KadenCyberNet) home lab portfolio.*
